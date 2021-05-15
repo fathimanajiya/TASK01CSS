@@ -21,68 +21,84 @@ ul{
 
 }
 .Glintlit{
- margin-left: 0px;
+ background-color: white;
+ width: 1200px;
+ height:300px;
 }
 .span1{
-    margin-left: 700px;
+    margin-left: 720px;
+    background-color: white;
+    width: 1200px;
+    height: 300px; ;
 
 }
-#foot{
-    color: darkred;text-align: center;
-    background-color: black;border: width 500px;
 
-
-}
 .main{
     background-color: aqua;
-    height: 600px;
+    height: 700px;
     width: 1200px;
 }
 .sub{
     background-color: aqua;
-    height: 500px;
+    height: 600px;
     width:1200px;
 }
 .col1{
     background-color: aqua;
     float: left;
-    height: 300px;
+    height: 400px;
     width: 250px;
     padding-left: 30px;
     padding-top: 10px;
+    font-size:small ;
 }
 .col2{
     background-color: aqua;
     float: left;
-    height: 300px;
+    height: 400px;
     width: 250px;
     margin-left: 10px;
-    vertical: align 0;
     border-right: yellow 5px solid;
     border-left:yellow 5px solid ;
     padding-left: 30px;
     padding-top: 10px;
+    font-size: small;
 }
 .col3{
     background-color: aqua;
     float: left;
     margin-left: 30px;
     width:250px ;
-    height: 300px;
+    height: 400px;
     border-left: yellow 5px solid;
     border-right: yellow 5px solid;
     padding-left: 30px;
     padding-top: 10px;
+    font-size: small;
 }
 .col4{
     background-color:aqua ;
-    height: 300px;
+    height: 400px;
     width: 250px;
     float:left;
     margin-left: 10px;
     padding-left: 30px;
     padding-top: 10px;
+    font-size: small;
 
 }
+.col5{
+    background-color: black;
+    padding-bottom:10px;
+    width: 1200px;
+    height=200px;
+    font-size: small;
+    border-block:black ;
+
+}
+#foot{
+    color: darkred;text-align: center;
+    }
+
 
 
