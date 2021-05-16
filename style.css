@@ -1,18 +1,15 @@
 body{
-    
+    background-color: aqua;
     color:blueviolet ;
-         
-    }
+}
 
 h1{
+    background-color: white;
     color: black;
 }
 h2{
     color: black;
 }
-
-    
-
 h4{
     color: black;
 }
@@ -20,31 +17,19 @@ ul{
     color: blue;
 
 }
-.Glintlit{
- background-color: white;
- width: 1200px;
- height:300px;
-}
 .span1{
     margin-left: 720px;
-    background-color: white;
-    width: 1200px;
-    height: 300px; ;
-
 }
 
 .main{
-    background-color: aqua;
     height: 700px;
     width: 1200px;
 }
 .sub{
-    background-color: aqua;
     height: 600px;
     width:1200px;
 }
 .col1{
-    background-color: aqua;
     float: left;
     height: 400px;
     width: 250px;
@@ -53,7 +38,6 @@ ul{
     font-size:small ;
 }
 .col2{
-    background-color: aqua;
     float: left;
     height: 400px;
     width: 250px;
@@ -65,7 +49,6 @@ ul{
     font-size: small;
 }
 .col3{
-    background-color: aqua;
     float: left;
     margin-left: 30px;
     width:250px ;
@@ -77,7 +60,6 @@ ul{
     font-size: small;
 }
 .col4{
-    background-color:aqua ;
     height: 400px;
     width: 250px;
     float:left;
@@ -85,19 +67,12 @@ ul{
     padding-left: 30px;
     padding-top: 10px;
     font-size: small;
-
-}
-.col5{
-    background-color: black;
-    padding-bottom:10px;
-    width: 1200px;
-    height=200px;
-    font-size: small;
-    border-block:black ;
-
 }
 #foot{
     color: darkred;text-align: center;
+    background-color: black;
+    border: width;
+    height: 30px;;
     }
 
 
