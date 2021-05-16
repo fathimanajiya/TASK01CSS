@@ -1,6 +1,6 @@
 body{
     background-color: aqua;
-    color:blueviolet ;
+    color:red ;
 }
 
 h1{
@@ -20,14 +20,13 @@ ul{
 .span1{
     margin-left: 720px;
 }
-
-.main{
-    height: 700px;
+.first{
+    height: 600px;
     width: 1200px;
 }
-.sub{
-    height: 600px;
-    width:1200px;
+.second{
+    height: 500px;
+    width: 1200px;
 }
 .col1{
     float: left;
